@@ -1,5 +1,12 @@
-streamlit==1.22.0
-pandas==1.5.3
-numpy==1.24.3
-python-dotenv==1.0.0
-gunicorn==20.1.0
+# streamlit==1.22.0
+# pandas==1.5.3
+# numpy==1.24.3
+# python-dotenv==1.0.0
+# gunicorn==20.1.0
+
+streamlit
+transformers
+librosa
+matplotlib
+language-tool-python
+tensorflow==2.12.0  # Or use a lighter version like tensorflow-cpu
